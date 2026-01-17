@@ -1,0 +1,5 @@
+Projekt dotyczy aplikacji mobilnej do monitorowania nawyków picia wody i nawodnienia organizmu. 
+Rozwiązuje problem zapominania o regularnym piciu płynów podczas intensywnej pracy lub nauki. 
+Odbiorcą są osoby pracujące przy biurku oraz sportowcy amatorzy, którzy chcą poprawić swoje samopoczucie. 
+Główne funkcjonalności to: licznik wypitej wody, system powiadomień (przypomnień), 
+dzienny cel obliczany na podstawie wagi użytkownika oraz historia postępów z ostatniego tygodnia.

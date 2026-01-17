@@ -1,0 +1,16 @@
+SŁOWA I SKOJARZENIA:
+- H2O, czystość, zdrowie, kropla, natura, minimalizm, rytm dnia.
+
+ELEMENTY PROJEKTU:
+- Przycisk szybkiego dodawania (250ml / 500ml).
+- Animacja napełniającej się szklanki.
+- Tryb ciemny (Dark Mode) dla ochrony oczu wieczorem.
+
+DANE WEJŚCIOWE:
+- Kategorie napojów: Woda, Kawa, Herbata, Sok.
+- Funkcje: Ustawianie wagi użytkownika, wybór jednostek (ml/oz), edycja godziny przypomnień.
+
+ŹRÓDŁA POMYSŁU:
+- Własna potrzeba (częste bóle głowy z odwodnienia).
+- Podpowiedź trenera personalnego.
+- Analiza prostych aplikacji z App Store – chęć zrobienia czegoś bardziej intuicyjnego.

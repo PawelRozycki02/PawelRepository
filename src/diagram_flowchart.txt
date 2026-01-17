@@ -1,0 +1,22 @@
+START
+  |
+  v
+[ Ekran Główny ] <-----------+
+  |                          |
+  v                          |
+( Czy dodano napój? ) --TAK--> [ Aktualizacja licznika ]
+  |                          |
+  NIE                        |
+  |                          |
+  v                          |
+( Czy cel osiągnięty? ) --TAK-> [ Wyświetl Gratulacje! ]
+  |                          |
+  NIE                        |
+  |                          |
+  +--------------------------+
+  |
+  v
+[ Statystyki Tygodniowe ]
+  |
+  v
+KONIEC
